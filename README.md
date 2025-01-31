@@ -24,6 +24,6 @@ Run a basic scan:
   python scanner.py --target example.com
   ```
 
-![Output](image/scanner output.jpg)
+![Output](image/scanneroutput.jpg)
 
 
